@@ -1,0 +1,5 @@
+job:1:
+  script: echo 'my first job'
+
+job:2:
+  script: echo 'my second job'
